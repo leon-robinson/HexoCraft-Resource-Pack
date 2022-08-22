@@ -1,0 +1,22 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/coming_soon.png",
+            "ascent": 70,
+            "height": 128,
+            "chars": [
+                "\uE001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/shulker_box.png",
+            "ascent": 0,
+            "height": 256,
+            "chars": [
+                "\uE002"
+            ]
+        }
+    ]
+}
