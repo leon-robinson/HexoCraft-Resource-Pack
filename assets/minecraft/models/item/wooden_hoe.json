@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "minecraft:darkcraft/weapons/comb_shiv"},
-    {"predicate": {"custom_model_data":2}, "model": "minecraft:darkcraft/weapons/baton"}
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:darkcraft/weapons/baton"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/kitchen_knife"}
   ]
 }
