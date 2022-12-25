@@ -5,6 +5,7 @@
   },
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "minecraft:item/cross"},
-    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/tick"}
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/tick"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/scroll"}
   ]
 }
