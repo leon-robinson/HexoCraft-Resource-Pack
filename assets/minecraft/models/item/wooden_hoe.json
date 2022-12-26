@@ -4,8 +4,12 @@
     "layer0": "minecraft:item/wooden_hoe"
   },
   "overrides": [
-    {"predicate": {"custom_model_data":1}, "model": "minecraft:darkcraft/weapons/comb_shiv"},
-    {"predicate": {"custom_model_data":2}, "model": "minecraft:darkcraft/weapons/baton"},
-    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/kitchen_knife"}
+    {"predicate": {"custom_model_data":1}, "model": "minecraft:item/comb_shiv"},
+    {"predicate": {"custom_model_data":2}, "model": "minecraft:item/baton"},
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/kitchen_knife"},
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/toilet_paper"},
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/shank"},
+    {"predicate": {"custom_model_data":6}, "model": "minecraft:item/prison_bar"},
+    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/pool_cue"}
   ]
 }
