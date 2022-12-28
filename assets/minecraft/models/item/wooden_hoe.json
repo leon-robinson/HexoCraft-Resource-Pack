@@ -9,6 +9,21 @@
     {"predicate": {"custom_model_data":3}, "model": "minecraft:item/kitchen_knife"},
     {"predicate": {"custom_model_data":5}, "model": "minecraft:item/shank"},
     {"predicate": {"custom_model_data":6}, "model": "minecraft:item/prison_bar"},
-    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/pool_cue"}
+    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/pool_cue"},
+    {"predicate": {"custom_model_data":8}, "model": "minecraft:item/prison_bar"},
+    {"predicate": {"custom_model_data":9}, "model": "minecraft:item/bandits_club"},
+    {"predicate": {"custom_model_data":10}, "model": "minecraft:item/bardiche"},
+    {"predicate": {"custom_model_data":11}, "model": "minecraft:item/claymore"},
+    {"predicate": {"custom_model_data":12}, "model": "minecraft:item/falchion"},
+    {"predicate": {"custom_model_data":13}, "model": "minecraft:item/foil"},
+    {"predicate": {"custom_model_data":14}, "model": "minecraft:item/gladius"},
+    {"predicate": {"custom_model_data":15}, "model": "minecraft:item/greatsword"},
+    {"predicate": {"custom_model_data":16}, "model": "minecraft:item/icicle"},
+    {"predicate": {"custom_model_data":17}, "model": "minecraft:item/light_cavalry_sabre"},
+    {"predicate": {"custom_model_data":18}, "model": "minecraft:item/makeshift_spear"},
+    {"predicate": {"custom_model_data":19}, "model": "minecraft:item/rapier"},
+    {"predicate": {"custom_model_data":20}, "model": "minecraft:item/schiavona"},
+    {"predicate": {"custom_model_data":21}, "model": "minecraft:item/scimitar"},
+    
   ]
 }
