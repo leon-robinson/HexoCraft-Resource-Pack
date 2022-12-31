@@ -969,7 +969,7 @@
   "dataPack.validation.back": "Go Back",
   "dataPack.validation.reset": "Reset to Default",
   "dataPack.vanilla.description": "The default data for Minecraft",
-  "sign.edit": "Edit Sign Message",
+  "sign.edit": "§eEnter Amount",
   "book.pageIndicator": "Page %1$s of %2$s",
   "book.byAuthor": "by %1$s",
   "book.signButton": "Sign",
