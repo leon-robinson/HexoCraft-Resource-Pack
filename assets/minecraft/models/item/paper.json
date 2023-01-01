@@ -6,6 +6,7 @@
   "overrides": [
     {"predicate": {"custom_model_data":1}, "model": "minecraft:item/toilet_paper"},
     {"predicate": {"custom_model_data":2}, "model": "minecraft:item/sharp_rock"},
-    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/stolen_purse"}
+    {"predicate": {"custom_model_data":3}, "model": "minecraft:item/stolen_purse"},
+    {"predicate": {"custom_model_data":4}, "model": "minecraft:item/beef_jerky"}
   ]
 }
