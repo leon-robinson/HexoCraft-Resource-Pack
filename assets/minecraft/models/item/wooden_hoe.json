@@ -23,7 +23,7 @@
     {"predicate": {"custom_model_data":18}, "model": "minecraft:item/makeshift_spear"},
     {"predicate": {"custom_model_data":19}, "model": "minecraft:item/rapier"},
     {"predicate": {"custom_model_data":20}, "model": "minecraft:item/schiavona"},
-    {"predicate": {"custom_model_data":21}, "model": "minecraft:item/scimitar"}
-    
+    {"predicate": {"custom_model_data":21}, "model": "minecraft:item/scimitar"},
+    {"predicate": {"custom_model_data":22}, "model": "minecraft:item/bandits_club"}
   ]
 }
