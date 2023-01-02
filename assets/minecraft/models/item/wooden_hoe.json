@@ -26,6 +26,11 @@
     {"predicate": {"custom_model_data":21}, "model": "minecraft:item/scimitar"},
     {"predicate": {"custom_model_data":22}, "model": "minecraft:item/bandits_club"},
     {"predicate": {"custom_model_data":23}, "model": "minecraft:item/corrupted_sword"},
-    {"predicate": {"custom_model_data":24}, "model": "minecraft:item/warden_sword"}
+    {"predicate": {"custom_model_data":24}, "model": "minecraft:item/warden_sword"},
+    {"predicate": {"custom_model_data":25}, "model": "minecraft:item/staff_1"},
+    {"predicate": {"custom_model_data":26}, "model": "minecraft:item/staff_2"},
+    {"predicate": {"custom_model_data":27}, "model": "minecraft:item/staff_3"},
+    {"predicate": {"custom_model_data":28}, "model": "minecraft:item/staff_4"},
+    {"predicate": {"custom_model_data":29}, "model": "minecraft:item/staff_5"}
   ]
 }
