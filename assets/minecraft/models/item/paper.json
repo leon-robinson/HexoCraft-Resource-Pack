@@ -8,6 +8,9 @@
     {"predicate": {"custom_model_data":2}, "model": "minecraft:item/sharp_rock"},
     {"predicate": {"custom_model_data":3}, "model": "minecraft:item/stolen_purse"},
     {"predicate": {"custom_model_data":4}, "model": "minecraft:item/beef_jerky"},
-    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/corrupted_handle"}
+    {"predicate": {"custom_model_data":5}, "model": "minecraft:item/corrupted_handle"},
+    {"predicate": {"custom_model_data":6}, "model": "minecraft:item/mossy_gem"},
+    {"predicate": {"custom_model_data":7}, "model": "minecraft:item/mossy_fragment"},
+    {"predicate": {"custom_model_data":8}, "model": "minecraft:item/mossy_shard"}
   ]
 }
